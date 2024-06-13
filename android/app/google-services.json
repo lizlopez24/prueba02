@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "615215418130",
+    "firebase_url": "https://prueba-2-ll-default-rtdb.firebaseio.com",
+    "project_id": "prueba-2-ll",
+    "storage_bucket": "prueba-2-ll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615215418130:android:4e950397564568296201cb",
+        "android_client_info": {
+          "package_name": "com.example.prueba02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgbpVPgispoij_jMvt6xfyKF6yu_h2OUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
